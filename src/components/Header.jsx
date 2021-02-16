@@ -13,7 +13,7 @@ const Header = () => {
       </h1>
       <div className="Header-checkout">
         <Link to="/checkout">
-          Checkout
+          <i className="fas fa-shopping-basket"></i>
         </Link>
       </div>
     </div>
